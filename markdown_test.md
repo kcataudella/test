@@ -4,6 +4,6 @@
 
 **bold text**
 
-/italics text/
+_italics text_
 
 [link](https://www.twitter.com)
