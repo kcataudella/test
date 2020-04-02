@@ -23,3 +23,9 @@ My favorite R function is `mean()`!
 
 According to CDC, 
 > Protect yourself from COVID-19!
+
+| small | big |   |   |   |
+|-------|-----|---|---|---|
+| 1     | 2   |   |   |   |
+| 2     | 3   |   |   |   |
+| 1     | 5   |   |   |   |
