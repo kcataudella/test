@@ -18,4 +18,8 @@ Numbered list:
 2. numbered list
 3. numbered list
 
+
 My favorite R function is `mean()`!
+
+According to CDC, 
+> Protect yourself from COVID-19!
