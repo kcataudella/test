@@ -6,7 +6,7 @@
 
 _italics text_
 
-[link](https://www.twitter.com)
+[link to twitter](https://www.twitter.com)
 
 Bullet points:
 - bullet point 1
@@ -14,9 +14,9 @@ Bullet points:
 - bullet point 3
 
 Numbered list:
-1. numbered list
-2. numbered list
-3. numbered list
+1. numbered list 1
+2. numbered list 2
+3. numbered list 3
 
 
 My favorite R function is `mean()`!
