@@ -3,5 +3,7 @@
 ### Header 3
 
 **bold text**
+
 /italics text/
-[link](www.twitter.com)
+
+[link](https://www.twitter.com)
